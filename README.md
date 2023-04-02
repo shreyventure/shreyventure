@@ -7,15 +7,33 @@ My areas of expertise include various web and ML technologies which I've honed t
 ### GitHub Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=shreyventure.shreyventure&left_color=black&right_color=purple)
 
 <p align="center">
-  <img width="47.7%" src="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=radical" />
-  <img width="50.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=default">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=radical">
+   <img width="47.7%" alt="YOUR-ALT-TEXT" src="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=radical">
+  </picture>
+  
+  <picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=default">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical">
+   <img width="50.3%" alt="YOUR-ALT-TEXT" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical">
+  </picture>
 </p>
 
 ### Top Languages and GitHub Profile Summary 📊
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical" />
-  <img width="66%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=default">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
+ <img width="32%" alt="YOUR-ALT-TEXT" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
+</picture>
+ 
+<picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical">
+ <img width="66%" alt="YOUR-ALT-TEXT" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=default">
+</picture>
 </p>
 
 Right now, I'm working on integrating numerous technologies to lineate business processes. But when I'm not geeking out over code, I'm always on the lookout for exciting new challenges and projects to tackle. So if you're looking for a skilled collaborator who can bring your notions to life, hit me up and let's make it happen.
