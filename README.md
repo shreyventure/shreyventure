@@ -16,7 +16,7 @@ My areas of expertise include various web and ML technologies which I've honed t
   <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=default">
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical">
-   <img width="50.3%" alt="Shreyas' Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=default">
+   <img width="50.3%" alt="Shreyas' Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical">
   </picture>
 </p>
 
@@ -26,13 +26,13 @@ My areas of expertise include various web and ML technologies which I've honed t
  <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=default">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
-  <img width="32%" alt="Shreyas' Coding Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure">
+  <img width="32%" alt="Shreyas' Coding Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
 </picture>
  
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=default">
  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical">
- <img width="66%" alt="Shreyas' Contribution Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure">
+ <img width="66%" alt="Shreyas' Contribution Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical">
 </picture>
 </p>
 
