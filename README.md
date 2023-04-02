@@ -1,4 +1,4 @@
-## Hey there, I'm Shreyas 👋🏼
+## Hello World! I'm Shreyas 👋🏼
 
 I'm a working professional with a passion for programming. When I'm not hustling away at work or exploring new coffee shops ☕, you can usually find me catching up on the latest movies and series 🎬.
 
