@@ -10,29 +10,29 @@ My areas of expertise include various web and ML technologies which I've honed t
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=default">
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=radical">
-   <img width="47.7%" alt="YOUR-ALT-TEXT" src="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=radical">
+   <img width="47.7%" alt="Shreyas' Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyventure&count_private=true&show_icons=true&theme=radical">
   </picture>
   
   <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=default">
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical">
-   <img width="50.3%" alt="YOUR-ALT-TEXT" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=radical">
+   <img width="50.3%" alt="Shreyas' Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyventure&theme=default">
   </picture>
 </p>
 
 ### Top Languages and GitHub Profile Summary 📊
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=default">
- <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
- <img width="32%" alt="YOUR-ALT-TEXT" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
+ <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure&theme=radical">
+  <img width="32%" alt="Shreyas' Coding Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyventure">
 </picture>
  
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=default">
  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical">
- <img width="66%" alt="YOUR-ALT-TEXT" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=default">
+ <img width="66%" alt="Shreyas' Contribution Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure">
 </picture>
 </p>
 
@@ -45,15 +45,15 @@ Thanks for stopping by, and keep hustling! 🤙
 <hr/>
 <p align="center">
   <a href="https://www.instagram.com/shreyventure/">
-    <img align="left" alt="Shreyas' Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+    <img align="left" alt="Shreyas' Instagram" width="23px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
   </a>
   <a href="https://hashnode.com/@shreyventure">
-    <img align="left" alt="Shreyas' Hashnode" width="25px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+    <img align="left" alt="Shreyas' Hashnode" width="23px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
   </a>
   <a href="https://twitter.com/shreyventure">
-    <img align="left" alt="Shreyas' Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+    <img align="left" alt="Shreyas' Twitter" width="23px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
   </a>
   <a href="https://www.linkedin.com/in/shreyas-shrawage-2920071b2/">
-    <img align="left" alt="Shreyas' Linkedin" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" />
+    <img align="left" alt="Shreyas' Linkedin" width="23px" src="https://cdn-icons-png.flaticon.com/512/2111/2111499.png" />
   </a>
 </p>
