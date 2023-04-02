@@ -2,7 +2,7 @@
 
 I'm a working professional with a passion for programming. When I'm not hustling away at work or exploring new coffee shops ☕, you can usually find me catching up on the latest movies and series 🎬.
 
-My areas of expertise include various web and ML concepts which I've honed through years of grinding it out on tough projects and getting my hands dirty with complex codebases 💻.
+My areas of expertise include various web and ML technologies which I've honed through years of grinding it out on tough projects and getting my hands dirty with complex codebases 💻.
 
 ### GitHub Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=shreyventure.shreyventure&left_color=black&right_color=purple)
 
