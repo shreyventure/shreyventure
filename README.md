@@ -15,7 +15,7 @@ My areas of expertise include various web and ML technologies which I've honed t
 
 <p align="center">
   <img width="33.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyventure&layout=compact&theme=radical" />
-  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=monokai" />
+  <img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyventure&theme=radical" />
 </p>
 
 Right now, I'm working on integrating numerous technologies to lineate business processes. But when I'm not geeking out over code, I'm always on the lookout for exciting new challenges and projects to tackle. So if you're looking for a skilled collaborator who can bring your notions to life, hit me up and let's make it happen.
