@@ -4,7 +4,7 @@ I'm a working professional with a passion for programming. When I'm not hustling
 
 My areas of expertise include various web and ML technologies which I've honed through years of grinding it out on tough projects and getting my hands dirty with complex codebases 💻.
 
-### GitHub Stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=shreyventure.shreyventure&left_color=black&right_color=purple)
+### GitHub Stats 🧑🏻‍💻
 
 <p align="center">
   <picture>
