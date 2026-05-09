@@ -1,6 +1,6 @@
 ## Hello World! I'm Shreyas 👋🏼 ![](https://komarev.com/ghpvc/?username=shreyventure&color=blueviolet)
 
-I'm a Software Engineer with a passion for programming. When I'm not hustling away at school or exploring new coffee shops ☕, you can usually find me catching up on the latest movies and series 🎬.
+I'm a Software Engineer with a passion for programming. When I'm not hustling away at work or exploring new coffee shops ☕, you can usually find me catching up on the latest movies and series 🎬.
 
 My areas of expertise include various web and ML technologies which I've honed through years of grinding it out on tough projects and getting my hands dirty with complex codebases 💻.
 
