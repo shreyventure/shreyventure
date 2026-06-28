@@ -36,6 +36,10 @@ My areas of expertise include various web and ML technologies which I've honed t
 </picture>
 </p>
 
+<picture>
+  <img width="100%" alt="Shreyas' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyventure&theme=react-dark">
+</picture>
+
 Right now, I'm working on learning and integrating numerous technologies to lineate business processes. But when I'm not geeking out over code, I'm always on the lookout for exciting new challenges and projects to tackle. So if you're looking for a skilled collaborator who can bring your notions to life, hit me up and let's make it happen.
 
 If you want to see more of my work or get in touch with me, check out my socials below, or slide into my DMs like a pro. Let's chat over a cup of joe and geek out over the latest tech trends and movie releases.
